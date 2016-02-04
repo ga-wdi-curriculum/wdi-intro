@@ -37,27 +37,7 @@ Here's a wireframe of Adrian as an example:
 
 ![](https://dl.dropboxusercontent.com/s/frqxj4hn044sm73/action_adrian_.jpg?dl=0)
 
-# Growth Mindset (Joe, 10 minutes, til 9:40)
-
-[Growth Mindset](https://www.youtube.com/watch?v=-_oqghnxBmY_) - [Dr. Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
-
-- This may be the most mentally challenging thing you've ever done -- the first time you've been bad at something in a long time.
-- You will fail and struggle at times, but that's important. We don't succeed despite challenges -- we succeed because of challenges. [The Learning Myth: Why I'll Never Tell My Son He's Smart](https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-ill-never-tell-my-son-hes)
-  - Unfortunately, this can hurt. Just like exercise can make you sore and tired, so should learning. Try to enjoy the burn knowing it is making you better.
-  - We anticipate that you will run into hardships. When you do, that's when it is time to really challenge yourself and buckle down. Don't quit! Embrace the fact that the challenge will make you a better coder. Endure the struggle to grow and develop your mind.
-- The Emotional Cycle of Change
-  ![Emotional Cycle of Change](https://s-media-cache-ak0.pinimg.com/736x/3c/f4/fa/3cf4faeb2078f4f4fbb9265444bde2e0.jpg)
-
-  - Programming is a mindset. It's about confidence and being open to failure. It's about knowing when to climb from the bottom of the cycle and being able to say, "Eh, I'm going to try this thing, even though I don't really understand it. AND I'm not going to get attached to it in case it doesn't work and I have to erase all my code and try something completely different."
-  - The growth mindset here is understanding that even when something doesn't work, it will still make you a better coder!
-  - We want this to be challenging for you because:
-    - Just memorizing stuff won't help you. Learning HOW to code will.
-    - ~~You can't BS your way through code.~~
-    - The fundamental standard of programming: It either works, or it doesn't. No amount of sweet-talking will make it work.
-    - Google is your best friend
-- So many students throughout my time here say, "I don't know how to do that." or some variation of that. Many of you will say it. Just add "...yet" to it.
-
-# What is an immersive course? (Jesse, 10 minutes, til 9:50)
+# What is an immersive course? (Jesse, 10 minutes, til 9:40)
 
 **Turn & Talk**: Let's take one minute to turn to our neighbors and discuss: "What's different about an immersive environment?"
 
@@ -89,6 +69,26 @@ Here's a wireframe of Adrian as an example:
   - YOLO
 
 Note that none of the above mention anything about code.
+
+# Growth Mindset (Joe, 10 minutes, til 9:50)
+
+[Growth Mindset](https://www.youtube.com/watch?v=-_oqghnxBmY_) - [Dr. Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
+
+- This may be the most mentally challenging thing you've ever done -- the first time you've been bad at something in a long time.
+- You will fail and struggle at times, but that's important. We don't succeed despite challenges -- we succeed because of challenges. [The Learning Myth: Why I'll Never Tell My Son He's Smart](https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-ill-never-tell-my-son-hes)
+  - Unfortunately, this can hurt. Just like exercise can make you sore and tired, so should learning. Try to enjoy the burn knowing it is making you better.
+  - We anticipate that you will run into hardships. When you do, that's when it is time to really challenge yourself and buckle down. Don't quit! Embrace the fact that the challenge will make you a better coder. Endure the struggle to grow and develop your mind.
+- The Emotional Cycle of Change
+  ![Emotional Cycle of Change](https://s-media-cache-ak0.pinimg.com/736x/3c/f4/fa/3cf4faeb2078f4f4fbb9265444bde2e0.jpg)
+
+  - Programming is a mindset. It's about confidence and being open to failure. It's about knowing when to climb from the bottom of the cycle and being able to say, "Eh, I'm going to try this thing, even though I don't really understand it. AND I'm not going to get attached to it in case it doesn't work and I have to erase all my code and try something completely different."
+  - The growth mindset here is understanding that even when something doesn't work, it will still make you a better coder!
+  - We want this to be challenging for you because:
+    - Just memorizing stuff won't help you. Learning HOW to code will.
+    - ~~You can't BS your way through code.~~
+    - The fundamental standard of programming: It either works, or it doesn't. No amount of sweet-talking will make it work.
+    - Google is your best friend
+- So many students throughout my time here say, "I don't know how to do that." or some variation of that. Many of you will say it. Just add "...yet" to it.
 
 # What is asking for help? (Nick, 10 minutes, til 10:00)
 
@@ -238,7 +238,7 @@ If you complete 80% of the homework assigned over the duration of the class, and
 - The instructors and staff will be happy to write job recommendations for you
 - The Outcomes team will prioritize helping you in your job search
 
-If you fall below these critera, then you won't be considered "recommended for hire", and won't get these incentives. You can still attend class and attend most alumni events, and we'll still treat you like any other student and provide you with help, but we won't be comfortable putting that "GA Seal of Approval" on you. This is in order to protect our brand, and to benefit those who do meet the standards. Our philosophy is that being a good programmer is much more than writing good code.
+Regardless of homework and attendance, every student can always attend class and alumni events, and we'll always treat each student like every other.
 
 There's no "bell curve" or number of students we have to give a "C" to. We're just asking you to be on-time and make an effort. We expect each of you to meet these criteria.
 
@@ -246,7 +246,7 @@ There's no "bell curve" or number of students we have to give a "C" to. We're ju
 
 There will be roughly 2 hours of homework every night. You'll be submitting the homework through Github, which we'll cover later on this week. All assignments will be due on Thursday at 9am. Your squad instructor will provide meaningful feedback on one of these assignments and also on your lab. Robin will check all the other homework and provide feedback and answer questions if you ask.
 
-It's **really, really** important that you submit homework even if -- especially if -- you didn't complete it. We would much rather you spend 2 hours taking a stab at something and turn it in unfinished than you spend 10 hours and turn it in perfect.
+It's **really, really** important that you submit homework even if -- especially if -- you didn't complete it. We would much rather you spend 2 hours taking a stab at something and turn it in unfinished than you spend 10 hours and turn it in perfect (or turn in nothing at all).
 
 This is because without seeing your homework, we have no idea how you're progressing with the material, and so we can't get you the help you may need. Also if you don't turn in anything then it suggests to us that you're not making WDI a priority, and as such we shouldn't make you a priority.
 
@@ -257,7 +257,7 @@ Assignments are graded on whether or not you seem to have made a meaningful effo
 
 ### Attendance
 
-You'll be taking your own attendance every morning. We have a system set up on Garnet that tracks the IP address from which you take attendance -- so we can tell if you're not actually in a classroom!
+You'll be taking your own attendance every morning via Garnet. (It can tell if you're not actually in the classroom! :)
 
 Metro delays can happen. The solution is to leave every day earlier than you think you should. The instructors are on-time every day and we live all over the area. If we can do it, so can you!
 
