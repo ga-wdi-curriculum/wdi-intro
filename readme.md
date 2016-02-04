@@ -176,11 +176,15 @@ Units/Projects:
 - Front-End Frameworks
 - Project 4 - Portfolio project
 
-### Course Logistics (10 minutes)
+## Course Logistics (10 minutes)
 
-#### Weekly Schedule
+This is an overview of the key points of course logistics. Please ask your squad instructor if you have any questions. It's really important that you understand all of this!
 
-###### "Normal Weeks"
+Also, note that everything I'm about to talk about is detailed in the `ga-dc/wdi8` repository on Github. I'm just highlighting some things here.
+
+### Weekly Schedule
+
+#### "Normal Weeks"
 
 - Mondays, Wednesdays, and Thursdays
   - 9:00-10:00:  Homework Review/Morning Exercise/Mini-lesson
@@ -202,25 +206,55 @@ Units/Projects:
   - 4:00-5:00: Squad Check-in
 
 
-##### Project Weeks (3, 6, 9, 12)
+#### Project Weeks (3, 7, 9, 12)
 
-Instead of the usual lesson structure, project weeks will include the following:
+Project weeks will be pretty much just time for you to work on your project.
 
-- One-on-ones
-  - Each student will be scheduled two half-hour one-on-one sessions with their squad leader each project week.
-  - These one-on-ones are opportunities to work through stumbling blocks, ask questions, get feedback on ideas, or pair program with an instructor.
-- Mini-lessons
-  - Sometimes, we will offer optional mini-lessons during project weeks, covering tools and techniques that are particularly relevant to the project at hand.
-- Office Hours
-  - There will be no evening office hours during project weeks.
-- Outcomes
-  - In most cases, the Outcomes schedule will also remain the same during project weeks
+- There will be no scheduled lessons, except for a few optional mini-lessons.
+- There will be no evening office hours, since instructors will be widely available during the day.
+- In most cases, the Outcomes schedule will also remain the same during project weeks
 
-#### Squads and Rotations
+### Squads and Rotations
 
-Squads will rotate classrooms after each project, so you will have the opportunity to work with just about everybody over the course of the 12 weeks.
+Squads will rotate classrooms after each project, so you will have the opportunity to work with everybody over the course of the 12 weeks.
 
-We'll all have the same lessons and the same homework. To increase instructor availability, each class' lesson schedule may vary by a day or two.
+We'll all have the same lessons and the same homework. To increase instructor availability, each class' lesson schedule may be offset by a day or two.
+
+### Homework
+
+There will be roughly 2 hours of homework every night. You'll be submitting the homework through Github, which we'll cover later on this week. All assignments will be due on Thursday at 9am. Your squad instructor will provide meaningful feedback on one of these assignments and also on your lab. Robin will check all the other homework and provide feedback and answer questions if you ask.
+
+It's **really, really** important that you submit homework even if -- and maybe especially if -- you didn't complete it. We would much rather you spend 2 hours taking a stab at something and turn it in unfinished than you spend 10 hours and turn it in perfect.
+
+This is because without seeing your homework, we have no idea how you're progressing with the material, and so we can't get you the help you may need. Also if you don't turn in anything then it suggests to us that you're not making WDI a priority, and as such we shouldn't make you a priority.
+
+Assignments are graded on whether or not you seem to have made a meaningful effort to do them. There are three possible grades for each assignment:
+  - Complete: meaningful effort was made. How "good" your code is doesn't have any impact on this.
+  - Incomplete: something was turned in, but meaningful effort was not made. No changes were made to the assignment, and/or it was blatantly plagiarized.
+  - Missing: nothing was turned in.
+
+### Incentives
+
+If you complete 80% of the homework assigned over the duration of the class, and have minimal absences and tardies, then you get the benefit of being "recommended for hire". This means:
+
+- You may attend the Meet and Hire
+- You may publish a Profile on profiles.generalassemb.ly
+- The instructors and staff will be happy to write job recommendations for you
+- The Outcomes team will prioritize helping you in your job search
+
+We expect each of you to meet to these standards.
+
+If you fall below these standards, then you won't be considered "recommended for hire", and won't get these incentives. You can still attend class and attend most alumni events, and we'll still treat you like any other student and provide you with help, but we won't be comfortable putting that "GA Seal of Approval" on you. This is in order to protect our brand, and to benefit those who do meet the standards.
+
+Our philosophy is that being a good programmer is much more than writing good code. There's no "bell curve" or number of students we have to give a "C" to. We're just asking you to be on-time and make an effort.
+
+### Attendance
+
+You'll be taking your own attendance every morning. We have a system set up on Garnet that tracks the IP address from which you take attendance -- so we can tell if you're not actually in a classroom!
+
+Metro delays can happen. The solution is to leave every day earlier than you think you should. The instructors are on-time every day and we live all over the area. If we can do it, so can you!
+
+If you do arrive late, we'll ask that you not enter the classrooms until they go on break. Having folks coming in late is a huge distraction to the instructors and students, and if you come in late but can still sneak in then it's kind of a slap in the face to the students who are here on-time.
 
 ### Instructor Communication
 
@@ -245,28 +279,7 @@ what's been written and highlight those commonly +1'd.
 
 ### Get to know each other
 
-### Expectations - Not Consequences
-
-#### Turn and talk: What are your expectations of yourself for this class?
-
-There are no grades for this class. There are no metrics. There's no certificate or degree you get at the end upon checking an appropriate number of boxes.
-
-So what's your motivation to succeed?
-
-You. You're investing $12,000 and 500 hours in this class. What you're expecting to get in return for that investment is a job. No piece of paper General Assembly gives you will be sufficient to land your dream career. No items General Assembly makes you cross off a list will be sufficient to get a job.
-
-The only sufficient checklist is one you create for yourself. Everyone will get access to very different opportunities outside of WDI depending on the work they do inside it.
-
-We -- your instructors and staff -- do have expectations of you. Most importantly, we expect you to make the most of this investment. We expect you to try your best. We expect you to let us know when you're struggling and give us an opportunity to help.
-
-Statistically speaking, based on the data of the thousands of students who have completed this program, you are very likely to get a job within 90 days of completion if you turn in at least 80% of your homework, and are absent fewer than 2 times, and tardy fewer than 8. You are statistically very **unlikely** to get a job if you do not meet these expectations.
-
-But expectations are not consequences. The only consequence we will impose is that we will discuss with you what our expectations are. Your actions based on that discussion are up to you.
-
-**Your** expectations are the most important - including whether you expect yourself to meet ours. You know your work ethic better than we do: please think about how we can help you to define expectations for yourself and to create a plan that sets you up to meet them.
-
 ### Q and A
-
 
 ## Entire Cohort Meets (11:45 - 12:30)
 
