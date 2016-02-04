@@ -224,12 +224,13 @@ We'll all have the same lessons and the same homework. To increase instructor av
 
 ### Instructor Communication
 
+- Additional Instructor Support is available during Evening Office Hours from 6:00 - 8:00PM on Tuesday and Wednesday Nights
 - Instructors who are not scheduled for Evening Office Hours **may not** respond to code questions via Slack or in person, even if we're in the office.
   - **Question**: Why would we do this?
   - **Answer**: Work/Life Balance.
 - Feel free to send any messages to us and we'll reach out to you the next day.
-- Should you have a logistical question, you may contact the **Student Communication Manager**
-  - This is Adrian.
+- Should you have a logistical question, you may contact Adrian Maseda
+  - He is the **Student Communication Manager** for your cohort
 
 ### Student Constitution (20 minutes)
 
