@@ -74,12 +74,12 @@ Here’s a wireframe of Adrian as an example:
   - You can't "win" -- and can't lose!
     - This is a noncompetitive environment.
     - You get out what you put in.
+    - Everyone enters and leaves at different levels. Try to compare you with you only.
   - Cooperation
     - You'll be learning, eating, growing, failing, and succeeding TOGETHER for the next 12 weeks!
   - You may be re-learning how to learn.
     - The last time you spent 9 hours a day learning something new was in high school.
   - You will be uncomfortable.  Regularly.
-    - Emotional Cycle of Change
     - Be empathetic.
     - You will probably feel somewhat lost on this week's topic, feel more comfortable with last week lessons, and notice that a few weeks ago looks easy.
   - Balance. This intensity means that we have to make room for balance.
@@ -94,6 +94,8 @@ Here’s a wireframe of Adrian as an example:
   - Ultimately, we ask you to **trust us and each other.**
     - Trust that we have each other's best interests at heart.
     - But we expect to have to work to earn that trust.
+  - Embrace failure.
+  - YOLO
 
 Note that none of the above mention anything about code.
 
