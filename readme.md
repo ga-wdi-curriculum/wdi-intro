@@ -10,7 +10,7 @@
 - Map out the topics and technologies of web development, and identify which we will and will not cover
 - List the main "Dos" and "Don'ts" for the class and the space
 
-## Orientation (By classroom) 9:00 - 10:10
+## Orientation 9:00 - 10:10
 
 Students and instructors meet in their assigned classrooms:
 
@@ -24,12 +24,12 @@ Instructor introductions.
 
 **Today's Schedule:**
 
-- 9:00  - 10:10 - Orientation (by classroom)
-- 10:20 - 11:30 - Squads meet individually
+- 9:00  - 10:10 - Orientation
+- 10:20 - 11:30 - Squads Meetings
 - 11:45 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff
 - 12:30 - 1:30  - Lunch
-- 1:30  - 4:00  - First Lesson (Command Line or HTML)
-- 4:00  - 5:00  - Squads meet individually
+- 1:30  - 4:00  - First Lesson (Command Line or CSS Layout)
+- 4:00  - 5:00  - Squads Meetings
 
 ### Icebreaker (20 minutes)
 
