@@ -195,9 +195,9 @@ Units/Projects:
 
 - Thursdays
   - 9:00-10:00:  Homework Review/Morning Exercise
-  - 10:00-12:30: Lab w/instructor support
+  - 10:00-12:30: Lab w/ instructor support
   - 12:30-2:30:  Lunch & Work Time
-  - 2:30-5:00:   Lab w/instructor support
+  - 2:30-5:00:   Lab w/ instructor support
 
 
 #### Project Weeks (3, 7, 9, 12)
