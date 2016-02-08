@@ -270,6 +270,8 @@ If you do arrive late, we'll ask that you not enter the classrooms until they go
 - Get to know each other
 - Q and A
   - Especially about homework and attendance
+- Update GitHub Profile
+  - Full name and Avatar
 
 # BREAK (10 minutes, til 11:45)
 
