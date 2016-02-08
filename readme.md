@@ -15,12 +15,11 @@ Instructor introductions.
 
 **Today's Schedule:**
 
-- 9:00  - 10:10 - Orientation
-- 10:20 - 11:30 - Squads Meetings
+-  9:00 - 10:40 - Orientation
+- 10:50 - 11:35 - Squad Meetings
 - 11:45 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff
-- 12:30 - 1:30  - Lunch
-- 1:30  - 4:00  - First Lesson (Command Line or CSS Layout)
-- 4:00  - 5:00  - Squads Meetings
+- 12:30 - 2:30  - Lunch
+-  2:30 - 5:00  - First Lesson (Command Line or CSS Layout)
 
 # Icebreaker (Adrian, 20 minutes, til 9:30)
 
