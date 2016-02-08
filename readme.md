@@ -122,9 +122,7 @@ of the DC job market. Each lesson is designed by the instructor that's
 delivering it.
 
 We also iterate on this curriculum constantly, so technologies,  concepts, etc,
-change with each cohort. Last cohort started with Ruby, but as JS becomes more
-and more important, we've started teaching JS first, switching to Ruby, then
-back to JS.
+change with each cohort.
 
 ### Course Content
 
@@ -161,16 +159,18 @@ complete a project (~3-5 days each).
 
 Units/Projects:
 
-- Front-end Fundamentals (HTML/CSS/JS)
-- Intermediate Front-end (Intermediate JavaScript / jQuery)
+- Intro to the Web (HTML/CSS/JS)
+- Vanilla Javascript
 - Project 1 - Build an application using HTML / CSS / JS
-- Ruby / Data Persistance / Backend Dev w/ Sinatra
+- Object Oriented Javascript
+- Raw Ruby
 - Full-stack MVC w/ Rails
 - Project 2 - Build a full-stack, data driven app w/ Rails
-- Building APIs with Rails and Express
+- Angular and APIs
 - Advanced Front-end (using API's on clientside)
 - Project 3 - Build a backend API and Front-end that consumes it
-- Front-End Frameworks
+- Express and the MEAN stack
+- Multi-track (TBD)
 - Project 4 - Portfolio project
 
 # Course Logistics (Becky, 10 minutes, til 10:30)
