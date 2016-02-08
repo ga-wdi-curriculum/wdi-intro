@@ -257,7 +257,9 @@ Assignments are graded on whether or not you seem to have made a meaningful effo
 
 ### Attendance
 
-You'll be taking your own attendance every morning via Garnet. (It can tell if you're not actually in the classroom! :)
+You'll be taking your own attendance every morning via Garnet. (It can tell if you're not actually in the classroom! :) If you check in one minute after the day starts, it's considered "tardy", and one hour after the day starts is considered "absent".
+
+[You can see how to take your attendance, and review our attendance policies, here.](https://github.com/ga-dc/wdi8/blob/master/attendance.md)
 
 Metro delays can happen. The solution is to leave every day earlier than you think you should. The instructors are on-time every day and we live all over the area. If we can do it, so can you!
 
