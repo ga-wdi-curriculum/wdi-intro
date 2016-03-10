@@ -178,22 +178,22 @@ Units/Projects:
 
 #### "Normal Weeks"
 
-- Mondays, Wednesdays, and Fridays
+- Mondays, Tuesdays, and Fridays
   - 9:00-10:00:  Morning Exercise/Homework Review/Mini-lesson
   - 10:00-12:30: Lesson 1
   - 12:30-2:30:  Lunch & Work Time
   - 2:30-5:00:   Lesson 2
   - 6:00-8:00:   Evening Office Hours (**Tuesday and Wednesday Nights**)
 
-- Tuesdays
-  - 9:00-10:00:  Homework Review/Morning Exercise
+- Wednesdays
+  - 9:00-10:00:  Morning Exercise/Homework Review/Mini-lesson
   - 10:00-12:30: Outcomes
   - 12:30-2:30:  Lunch & Work Time
   - 2:30-5:00:   Lesson 1
   - 6:00-8:00:   Evening Office Hours
 
 - Thursdays
-  - 9:00-10:00:  Homework Review/Morning Exercise
+  - 9:00-10:00:  Morning Exercise/Homework Review/Mini-lesson
   - 10:00-12:30: Lab w/ instructor support
   - 12:30-2:30:  Lunch & Work Time
   - 2:30-5:00:   Lab w/ instructor support
