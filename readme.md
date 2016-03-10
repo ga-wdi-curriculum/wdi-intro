@@ -209,9 +209,7 @@ Project weeks will be pretty much just time for you to work on your project.
 
 ### Squads and Rotations
 
-So you will have the opportunity to work with everybody over the course of the 12 weeks, squads will rotate classrooms at the beginning of each unit -- usually every Friday of non-project weeks.
-
-We'll all have the same lessons and the same homework. To increase instructor availability, each class' lesson schedule may be offset by a day or two.
+Each student will be assigned a squad with an instructor lead. In this way, you'll have a dedicated instructor for homework feedback and support. This instructor will change twice throughout the course so that you will have a chance to work with each instructor at least once. We encourage you to work with your squad as often as you can as the squads will remain the same.
 
 ### Instructor Communication
 
