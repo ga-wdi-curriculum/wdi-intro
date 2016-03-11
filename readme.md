@@ -9,7 +9,7 @@
 - Map out the topics and technologies of web development, and identify which we will and will not cover
 - List the main "Dos" and "Don'ts" for the class and the space
 
-# Welcome & Today's Schedule (Adrian, 10 minutes, til 9:10)
+# Welcome & Today's Schedule (Adam, 10 minutes, til 9:10)
 
 Instructor introductions.
 
@@ -19,24 +19,13 @@ Instructor introductions.
 - 10:50 - 11:35 - Squad Meetings
 - 11:45 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff
 - 12:30 - 2:30  - Lunch
--  2:30 - 5:00  - First Lesson (Command Line or CSS Layout)
+-  2:30 - 5:00  - First Lesson (Command Line)
 
-# Icebreaker (Adrian, 20 minutes, til 9:30)
+# Icebreaker (Tyler, 20 minutes, til 9:30)
 
-Wireframe your partner!
+Human Bingo
 
-Find a partner. Spend 5 minutes sketching your partner. On the left, draw three things
-he or she likes, and on the right, three things he or she dislikes.
-
-Switch!
-
-For the remaining 10 minutes, we'll go around the room and share!
-
-Here's a wireframe of Adrian as an example:
-
-![](https://dl.dropboxusercontent.com/s/frqxj4hn044sm73/action_adrian_.jpg?dl=0)
-
-# What is an immersive course? (Jesse, 10 minutes, til 9:40)
+# What is an immersive course? (Andy, 10 minutes, til 9:40)
 
 **Turn & Talk**: Let's take one minute to turn to our neighbors and discuss: "What's different about an immersive environment?"
 
@@ -69,7 +58,7 @@ Here's a wireframe of Adrian as an example:
 
 Note that none of the above mention anything about code.
 
-# Growth Mindset (Joe, 10 minutes, til 9:50)
+# Growth Mindset (Andy, 10 minutes, til 9:50)
 
 [Growth Mindset](https://www.youtube.com/watch?v=-_oqghnxBmY_) - [Dr. Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
 
@@ -89,13 +78,15 @@ Note that none of the above mention anything about code.
     - Google is your best friend
 - So many students throughout my time here say, "I don't know how to do that." or some variation of that. Many of you will say it. Just add "...yet" to it.
 
-# What is asking for help? (Nick, 10 minutes, til 10:00)
+# What is asking for help? (Tyler, 10 minutes, til 10:00)
 
 - This is the thing students find the hardest, and the thing that ultimately determines whether or not students will be successful in this class.
 - Without fail, the students who do not ask for help do the poorest in the class.
 - Most importantly, **knowing how to ask for help and where to look for answers** is one of the biggest skills you can gain from this class that will be applicable as you prepare to join the professional workforce.
 
 **Turn & Talk**: Everyone should take 30 seconds to think of a time when they've asked someone for help. It doesn't have to be tech-related. Then take 30 seconds to turn and share with your tablemates about those times. What were the outcomes?
+
+<!-- ALB: turn into a postit note exercise? -->
 
 We have all asked for help. There's no shame in it. Feeling afraid to ask for help will be the biggest detriment in this class.
 - What makes asking for help effective?
@@ -110,15 +101,15 @@ We have all asked for help. There's no shame in it. Feeling afraid to ask for he
 
 # Break (10 minutes, til 10:10)
 
-# Course content (Matt, 10 minutes, til 10:20)
+# Course content (Adam, 10 minutes, til 10:20)
 
 ### How the Class is Built
 
-GA's global team (including many of the instructors here) has built a baseline curriculum, which includes topics to cover, and a
-suggested order. As a local campus, we have built on and modified this
-curriculum based on own experiences as instructors, and the unique features
-of the DC job market. Each lesson is designed by the instructor that's
-delivering it.
+GA's global team (including many of the instructors here) has built a baseline
+curriculum, which includes topics to cover, and a suggested order. As a local
+campus, we have built on and modified this curriculum based on own experiences
+as instructors, and the unique features of the DC job market. Each lesson is
+designed by the instructor that's delivering it.
 
 We also iterate on this curriculum constantly, so technologies,  concepts, etc,
 change with each cohort.
@@ -162,42 +153,34 @@ Units/Projects:
 - Vanilla Javascript
 - Project 1 - Build an application using HTML / CSS / JS
 - Object Oriented Javascript
-- Raw Ruby
+- Ruby
 - Full-stack MVC w/ Rails
 - Project 2 - Build a full-stack, data driven app w/ Rails
 - Angular and APIs
 - Advanced Front-end (using API's on clientside)
 - Project 3 - Build a backend API and Front-end that consumes it
 - Express and the MEAN stack
-- Multi-track (TBD)
+- TBD - Agile based on class wishes / needs
 - Project 4 - Portfolio project
 
-# Course Logistics (Becky, 10 minutes, til 10:30)
+# Course Logistics (Adam, 10 minutes, til 10:30)
 
 ### Weekly Schedule
 
 #### "Normal Weeks"
 
-- Mondays, Wednesdays, and Fridays
+- Mondays, Tuesdays, Wednesdays and Fridays
   - 9:00-10:00:  Morning Exercise/Homework Review/Mini-lesson
-  - 10:00-12:30: Lesson 1
-  - 12:30-2:30:  Lunch & Work Time
+  - 10:00-12:30: Lesson 1 (Outcomes on Tuesdays)
+  - 12:30-2:30:  Lunch / Work Time / 1:1s / Office Hours
   - 2:30-5:00:   Lesson 2
   - 6:00-8:00:   Evening Office Hours (**Tuesday and Wednesday Nights**)
 
-- Tuesdays
-  - 9:00-10:00:  Homework Review/Morning Exercise
-  - 10:00-12:30: Outcomes
-  - 12:30-2:30:  Lunch & Work Time
-  - 2:30-5:00:   Lesson 1
-  - 6:00-8:00:   Evening Office Hours
-
 - Thursdays
-  - 9:00-10:00:  Homework Review/Morning Exercise
+  - 9:00-10:00:  Morning Exercise/Homework Review/Mini-lesson
   - 10:00-12:30: Lab w/ instructor support
   - 12:30-2:30:  Lunch & Work Time
   - 2:30-5:00:   Lab w/ instructor support
-
 
 #### Project Weeks (3, 7, 9, 12)
 
@@ -209,61 +192,101 @@ Project weeks will be pretty much just time for you to work on your project.
 
 ### Squads and Rotations
 
-So you will have the opportunity to work with everybody over the course of the 12 weeks, squads will rotate classrooms at the beginning of each unit -- usually every Friday of non-project weeks.
+Each student will be part of a squad of approximately ~5 students, lead by one
+instructor. Your squad instructor will be the primary (but not the only)
+instructor providing you with feedback on homework, labs, quizzes, etc.
 
-We'll all have the same lessons and the same homework. To increase instructor availability, each class' lesson schedule may be offset by a day or two.
+Though you'll stay together with your squad throughout the whole course, there
+will likely be at least one point in the course where instructors will rotate
+and lead a new squad.
 
 ### Instructor Communication
 
-- Additional Instructor Support is available during Evening Office Hours from 6:00 - 8:00PM on Tuesday and Wednesday Nights
-- Instructors who are not scheduled for Evening Office Hours **may not** respond to code questions via Slack or in person, even if we're in the office.
+- Additional Instructor Support is available during Evening Office Hours from
+6:00 - 8:00PM on Tuesday and Wednesday Nights
+- Instructors who are not scheduled for Evening Office Hours **may not**
+respond to code questions via Slack or in person, even if we're in the office.
   - **Question**: Why would we do this?
   - **Answer**: Work/Life Balance.
 - Feel free to send any messages to us and we'll reach out to you the next day.
-- Should you have a logistical question, you may contact Adrian Maseda
+- Should you have a logistical question, you may contact Andy Kim
   - He is the **Student Communication Manager** for your cohort
 
-# Perks and Incentives (Robin, 10 minutes, til 10:40)
+### Garnet
 
-Note that everything I'm about to talk about is detailed in the `ga-dc/wdi8` repository on Github. I'm just highlighting some things here.
+Demo [Garnet](garnet.wdidc.org)
 
-Please ask your squad instructor if you have any questions. It's really important that you understand all of this!
+# Perks and Incentives (Tyler, 10 minutes, til 10:40)
+
+Note that everything I'm about to talk about is detailed in the `ga-dc/wdi9`
+repository on Github. I'm just highlighting some things here.
+
+Please ask your squad instructor if you have any questions. It's really
+important that you understand all of this!
 
 ### Incentives
 
-If you complete 80% of the homework assigned over the duration of the class, and have minimal absences and tardies, then you get the benefit of being "recommended for hire". This means:
+If you complete 80% of the homework assigned over the duration of the class,
+and have minimal absences and tardies, then you get the benefit of being
+"recommended for hire". This means:
 
 - You may attend the Meet and Hire
 - You may publish a Profile on profiles.generalassemb.ly
 - The instructors and staff will be happy to write job recommendations for you
 - The Outcomes team will prioritize helping you in your job search
 
-Regardless of homework and attendance, every student can always attend class and alumni events, and we'll always treat each student like every other.
+Regardless of homework and attendance, every student can always attend class and
+alumni events, and we'll always treat each student like every other.
 
-There's no "bell curve" or number of students we have to give a "C" to. We're just asking you to be on-time and make an effort. We expect each of you to meet these criteria.
+There's no "bell curve" or number of students we have to give a "C" to. We're
+just asking you to be on-time and make an effort. We expect each of you to meet
+these criteria.
 
 ### Homework
 
-There will be roughly 2 hours of homework every night. You'll be submitting the homework through Github, which we'll cover later on this week. All assignments will be due on Thursday at 9am. Your squad instructor will provide meaningful feedback on one of these assignments and also on your lab. Robin will check all the other homework and provide feedback and answer questions if you ask.
+There will be roughly 2 hours of homework every night. You'll be submitting the
+homework through Github, which we'll cover later on this week.
 
-It's **really, really** important that you submit homework even if -- especially if -- you didn't complete it. We would much rather you spend 2 hours taking a stab at something and turn it in unfinished than you spend 10 hours and turn it in perfect (or turn in nothing at all).
+Assignments will generally be due on the following day at 9am, though we
+strongly suggest you submit a pull request by midnight and get some sleep for
+the next day of class.
 
-This is because without seeing your homework, we have no idea how you're progressing with the material, and so we can't get you the help you may need. Also if you don't turn in anything then it suggests to us that you're not making WDI a priority, and as such we shouldn't make you a priority.
+Your squad instructor will provide meaningful feedback on at least one of these
+assignments and also on your lab.
 
-Assignments are graded on whether or not you seem to have made a meaningful effort to do them. There are three possible grades for each assignment:
+It's **really, really** important that you submit homework even if -- especially
+if -- you didn't complete it. We would much rather you spend 2 hours taking a
+stab at something and turn it in unfinished than you spend 10 hours and turn it
+in perfect (or turn in nothing at all).
+
+This is because without seeing your homework, we have no idea how you're
+progressing with the material, and so we can't get you the help you may need.
+Also if you don't turn in anything then it suggests to us that you're not making
+WDI a priority, and as such we need to check in with you.
+
+Assignments are graded on whether or not you seem to have made a meaningful
+effort to do them. There are three possible grades for each assignment:
   - Complete: meaningful effort was made. How "good" your code is doesn't have any impact on this.
   - Incomplete: something was turned in, but meaningful effort was not made. No changes were made to the assignment, and/or it was blatantly plagiarized.
   - Missing: nothing was turned in.
 
 ### Attendance
 
-You'll be taking your own attendance every morning via Garnet. (It can tell if you're not actually in the classroom! :) If you check in one minute after the day starts, it's considered "tardy", and one hour after the day starts is considered "absent".
+You'll be taking your own attendance every morning via Garnet.
+(It can tell if you're not actually in the classroom! :) If you check in one
+minute after the day starts, it's considered "tardy", and one hour after the
+day starts is considered "absent".
 
-[You can see how to take your attendance, and review our attendance policies, here.](https://github.com/ga-dc/wdi8/blob/master/attendance.md)
+[You can see how to take your attendance, and review our attendance policies, here.](https://github.com/ga-dc/wdi9/blob/master/attendance.md)
 
-Metro delays can happen. The solution is to leave every day earlier than you think you should. The instructors are on-time every day and we live all over the area. If we can do it, so can you!
+Metro delays can happen. The solution is to leave every day earlier than you
+think you should. The instructors are on-time every day and we live all over
+the area. If we can do it, so can you!
 
-If you do arrive late, we'll ask that you not enter the classrooms until they go on break. Having folks coming in late is a huge distraction to the instructors and students, and if you come in late but can still sneak in then it's kind of a slap in the face to the students who are here on-time.
+If you do arrive late, we'll ask that you not enter the classrooms until they
+go on break. Having folks coming in late is a huge distraction to the
+instructors and students, and if you come in late but can still sneak in then
+it's kind of a slap in the face to the students who are here on-time.
 
 # BREAK (10 minutes, til 10:50)
 
