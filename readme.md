@@ -19,6 +19,7 @@ Instructor introductions.
 - 10:50 - 11:35 - Squad Meetings
 - 11:45 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff
 - 12:30 - 2:30  - Lunch
+  - 1:30 - 2:30 - Office hours to review Pre-work
 -  2:30 - 5:00  - First Lesson (Command Line)
 
 # Icebreaker (Tyler, 20 minutes, til 9:30)
