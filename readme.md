@@ -23,7 +23,11 @@ Instructor introductions.
 
 # Icebreaker (Tyler, 20 minutes, til 9:30)
 
-Human Bingo
+Human Bingo!
+
+See if you can find someone who you think fit the category. Introduce yourself **before** you question them about the description. Ask that person to add their name to that particular box if they fit*. Continue until you have 5 boxes with names in a straight line.
+
+* Metaphorically. We realize your new friend may not actually fit inside these little squares.
 
 # What is an immersive course? (Andy, 10 minutes, til 9:40)
 
