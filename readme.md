@@ -9,7 +9,7 @@
 - Map out the topics and technologies of web development, and identify which we will and will not cover
 - List the main "Dos" and "Don'ts" for the class and the space
 
-# Welcome & Today's Schedule (Adam, 10 minutes, til 9:10)
+# Welcome & Today's Schedule (10 minutes, til 9:10)
 
 Instructor introductions.
 
@@ -22,7 +22,7 @@ Instructor introductions.
   - 1:30 - 2:30 - Office hours to review Pre-work
 -  2:30 - 5:00  - First Lesson (Command Line)
 
-# Icebreaker (Tyler, 20 minutes, til 9:30)
+# Icebreaker (20 minutes, til 9:30)
 
 Human Bingo!
 
@@ -30,7 +30,7 @@ See if you can find someone who you think fit the category. Introduce yourself *
 
 * Metaphorically. We realize your new friend may not actually fit inside these little squares.
 
-# What is an immersive course? (Andy, 10 minutes, til 9:40)
+# What is an immersive course? (10 minutes, til 9:40)
 
 **Turn & Talk**: Let's take one minute to turn to our neighbors and discuss: "What's different about an immersive environment?"
 
@@ -63,7 +63,7 @@ See if you can find someone who you think fit the category. Introduce yourself *
 
 Note that none of the above mention anything about code.
 
-# Growth Mindset (Andy, 10 minutes, til 9:50)
+# Growth Mindset (10 minutes, til 9:50)
 
 [Growth Mindset](https://www.youtube.com/watch?v=-_oqghnxBmY_) - [Dr. Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
 
@@ -83,7 +83,7 @@ Note that none of the above mention anything about code.
     - Google is your best friend
 - So many students throughout my time here say, "I don't know how to do that." or some variation of that. Many of you will say it. Just add "...yet" to it.
 
-# What is asking for help? (Tyler, 10 minutes, til 10:00)
+# What is asking for help? (10 minutes, til 10:00)
 
 - This is the thing students find the hardest, and the thing that ultimately determines whether or not students will be successful in this class.
 - Without fail, the students who do not ask for help do the poorest in the class.
@@ -106,7 +106,7 @@ We have all asked for help. There's no shame in it. Feeling afraid to ask for he
 
 # Break (10 minutes, til 10:10)
 
-# Course content (Adam, 10 minutes, til 10:20)
+# Course content (10 minutes, til 10:20)
 
 ### How the Class is Built
 
@@ -168,7 +168,7 @@ Units/Projects:
 - TBD - Agile based on class wishes / needs
 - Project 4 - Portfolio project
 
-# Course Logistics (Adam, 10 minutes, til 10:30)
+# Course Logistics (10 minutes, til 10:30)
 
 ### Weekly Schedule
 
@@ -197,7 +197,7 @@ Project weeks will be pretty much just time for you to work on your project.
 
 ### Squads and Rotations
 
-Each student will be part of a squad of approximately ~5 students, lead by one
+Each student will be part of a squad lead by one
 instructor. Your squad instructor will be the primary (but not the only)
 instructor providing you with feedback on homework, labs, quizzes, etc.
 
@@ -214,16 +214,14 @@ respond to code questions via Slack or in person, even if we're in the office.
   - **Question**: Why would we do this?
   - **Answer**: Work/Life Balance.
 - Feel free to send any messages to us and we'll reach out to you the next day.
-- Should you have a logistical question, you may contact Andy Kim
-  - He is the **Student Communication Manager** for your cohort
 
 ### Garnet
 
 Demo [Garnet](garnet.wdidc.org)
 
-# Perks and Incentives (Tyler, 10 minutes, til 10:40)
+# Perks and Incentives (10 minutes, til 10:40)
 
-Note that everything I'm about to talk about is detailed in the `ga-dc/wdi9`
+Note that everything I'm about to talk about is detailed in the WDI
 repository on Github. I'm just highlighting some things here.
 
 Please ask your squad instructor if you have any questions. It's really
@@ -281,8 +279,6 @@ You'll be taking your own attendance every morning via Garnet.
 (It can tell if you're not actually in the classroom! :) If you check in one
 minute after the day starts, it's considered "tardy", and one hour after the
 day starts is considered "absent".
-
-[You can see how to take your attendance, and review our attendance policies, here.](https://github.com/ga-dc/wdi9/blob/master/attendance.md)
 
 Metro delays can happen. The solution is to leave every day earlier than you
 think you should. The instructors are on-time every day and we live all over
