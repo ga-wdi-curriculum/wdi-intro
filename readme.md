@@ -24,44 +24,59 @@ Instructor introductions.
 
 # Icebreaker (20 minutes, til 9:30)
 
-Human Bingo!
+ Find a partner. Spend 5 minutes sketching your partner. On the left, draw three things
+ he or she likes, and on the right, three things he or she dislikes.
 
-See if you can find someone who you think fit the category. Introduce yourself **before** you question them about the description. Ask that person to add their name to that particular box if they fit*. Continue until you have 5 boxes with names in a straight line.
+ Switch!
 
-* Metaphorically. We realize your new friend may not actually fit inside these little squares.
+ For the remaining 10 minutes, we'll go around the room and share!
+
+ Here's a wireframe of Adrian as an example...
+
+ ![](https://dl.dropboxusercontent.com/s/frqxj4hn044sm73/action_adrian_.jpg?dl=0)
 
 # What is an immersive course? (10 minutes, til 9:40)
 
-**Turn & Talk**: Let's take one minute to turn to our neighbors and discuss: "What's different about an immersive environment?"
+Spend two minutes discussing and writing down some answers to the following question: **What does it mean to be in an "immersive" environment?**
 
-- What does it mean to be in a "immersive course"?
-  - You can't "win" -- and can't lose!
-    - This is a noncompetitive environment.
-    - You get out what you put in.
-    - Everyone enters and leaves at different levels. Try to compare you with you only.
-  - Cooperation
-    - You'll be learning, eating, growing, failing, and succeeding TOGETHER for the next 12 weeks!
-  - You may be re-learning how to learn.
-    - The last time you spent 9 hours a day learning something new was in high school.
-  - You will be uncomfortable.  Regularly.
-    - Be empathetic.
-    - You will probably feel somewhat lost on this week's topic, feel more comfortable with last week lessons, and notice that a few weeks ago looks easy.
-  - Balance. This intensity means that we have to make room for balance.
-    - Sleep, food, hydration, rest, and hygiene.
-  - We will not give up on you
-    - Even when you might have given up on yourself!
-    - None of the instructors are here just to collect a paycheck. We're nerds, about web development, education, and you.
-  - Trust that our decisions are informed by solid experience.
-    - In industry
-    - At GA
-    - We rely on your feedback. At the same time, we ultimately have to trust in our own experience and expertise first.
-  - Ultimately, we ask you to **trust us and each other.**
-    - Trust that we have each other's best interests at heart.
-    - But we expect to have to work to earn that trust.
-  - Embrace failure.
-  - YOLO
+**You can't "win" -- and can't lose!**
+- This is a noncompetitive environment.
+- You get out what you put in.
+- Everyone enters and leaves at different levels. Try to compare you with you only.
 
-Note that none of the above mention anything about code.
+**Cooperation.**
+- You'll be learning, eating, growing, failing, and succeeding TOGETHER for the next 12 weeks!
+
+**You may be re-learning how to learn.**
+- The last time you spent 9 hours a day learning something new was in high school.
+
+**You will be uncomfortable. Regularly.**
+- Be empathetic.
+- You will probably feel somewhat lost on this week's topic, feel more comfortable with last week lessons, and notice that a few weeks ago looks easy.
+
+**Balance.**
+- This intensity means that we have to make room for balance.
+- Sleep, food, hydration, rest, and hygiene.
+
+**We will not give up on you.**
+- Even when you might have given up on yourself!
+- None of the instructors are here just to collect a paycheck. We're nerds, about web development, education, and you.
+
+**Trust that our decisions are informed by solid experience.**
+- In industry.
+- At GA.
+- We rely on your feedback. At the same time, we ultimately have to trust in our own experience and expertise first.
+
+**Ultimately, we ask you to trust us and each other.**
+- Trust that we have each other's best interests at heart.
+- But we expect to have to work to earn that trust.
+
+**Embrace failure.**
+
+**YOLO.**
+- Because it's 2016.
+
+> None of the above mentions anything about code.
 
 # Growth Mindset (10 minutes, til 9:50)
 
