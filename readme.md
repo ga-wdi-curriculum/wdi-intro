@@ -233,7 +233,7 @@ respond to code questions via Slack or in person, even if we're in the office.
 
 ### Garnet
 
-Demo [Garnet](garnet.wdidc.org)
+Demo [Garnet](https://garnet.wdidc.org)
 
 # Perks and Incentives (10 minutes, til 10:40)
 
