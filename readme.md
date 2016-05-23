@@ -39,13 +39,14 @@ Instructor introductions.
 
 Spend two minutes discussing and writing down some answers to the following question: **What does it mean to be in an "immersive" environment?**
 
-**You can't "win" -- and can't lose!**
-- This is a noncompetitive environment.
+**There's no winning or losing.**
+- This is a non-competitive environment.
 - You get out what you put in.
 - Everyone enters and leaves at different levels. Try to compare you with you only.
+- Use your classmates' work as inspiration to improve your own!
 
 **Cooperation.**
-- You'll be learning, eating, growing, failing, and succeeding TOGETHER for the next 12 weeks!
+- You'll be learning, eating, growing, failing, and succeeding together for the next 12 weeks.
 
 **You may be re-learning how to learn.**
 - The last time you spent 9 hours a day learning something new was in high school.
