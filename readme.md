@@ -31,7 +31,7 @@ Instructor introductions.
 
  For the remaining 10 minutes, we'll go around the room and share!
 
- Here's a wireframe of Adrian as an example...
+ Here's a wireframe of Adrian, a WDI Instructor, as an example...
 
  ![](https://dl.dropboxusercontent.com/s/frqxj4hn044sm73/action_adrian_.jpg?dl=0)
 
@@ -84,7 +84,7 @@ Spend two minutes discussing and writing down some answers to the following ques
 [Growth Mindset](https://www.youtube.com/watch?v=-_oqghnxBmY_) - [Dr. Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
 
 - This may be the most mentally challenging thing you've ever done -- the first time you've been bad at something in a long time.
-- You will fail and struggle at times, but that's important. We don't succeed despite challenges -- we succeed because of challenges. [The Learning Myth: Why I'll Never Tell My Son He's Smart](https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-ill-never-tell-my-son-hes)
+- You will fail and struggle at times, but that's important. We don't succeed despite challenges -- we succeed because of challenges. [The Learning Myth: Why I'll Never Tell My Son He's Smart](https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-ill-never-tell-my-son-hes). Take 2 minutes to skim through this article.
   - Unfortunately, this can hurt. Just like exercise can make you sore and tired, so should learning. Try to enjoy the burn knowing it is making you better.
   - We anticipate that you will run into hardships. When you do, that's when it is time to really challenge yourself and buckle down. Don't quit! Embrace the fact that the challenge will make you a better coder. Endure the struggle to grow and develop your mind.
 - The Emotional Cycle of Change
@@ -94,7 +94,7 @@ Spend two minutes discussing and writing down some answers to the following ques
   - The growth mindset here is understanding that even when something doesn't work, it will still make you a better coder!
   - We want this to be challenging for you because:
     - Just memorizing stuff won't help you. Learning HOW to code will.
-    - ~~You can't BS your way through code.~~
+    - You can't BS your way through code.
     - The fundamental standard of programming: It either works, or it doesn't. No amount of sweet-talking will make it work.
     - Google is your best friend
 - So many students throughout my time here say, "I don't know how to do that." or some variation of that. Many of you will say it. Just add "...yet" to it.
@@ -195,7 +195,7 @@ Units/Projects:
   - 10:00-12:30: Lesson 1 (Outcomes on Tuesdays)
   - 12:30-2:30:  Lunch / Work Time / 1:1s / Office Hours
   - 2:30-5:00:   Lesson 2
-  - 6:00-8:00:   Evening Office Hours (**Tuesday and Wednesday Nights**)
+  - 6:00-8:00:   Evening Office Hours (**Monday, Tuesday and Wednesday Nights**)
 
 - Thursdays
   - 9:00-10:00:  Morning Exercise/Homework Review/Mini-lesson
@@ -224,7 +224,7 @@ and lead a new squad.
 ### Instructor Communication
 
 - Additional Instructor Support is available during Evening Office Hours from
-6:00 - 8:00PM on Tuesday and Wednesday Nights
+6:00 - 8:00PM on Monday,Tuesday and Wednesday Nights. WDI instructors from other cohorts will be included in the Office Hours schedule.
 - Instructors who are not scheduled for Evening Office Hours **may not**
 respond to code questions via Slack or in person, even if we're in the office.
   - **Question**: Why would we do this?
@@ -271,7 +271,7 @@ strongly suggest you submit a pull request by midnight and get some sleep for
 the next day of class.
 
 Your squad instructor will provide meaningful feedback on at least one of these
-assignments and also on your lab.
+assignments and also on your lab. You can also point us to specific lines in your code you'd like feedback on.
 
 It's **really, really** important that you submit homework even if -- especially
 if -- you didn't complete it. We would much rather you spend 2 hours taking a
