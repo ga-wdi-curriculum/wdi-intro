@@ -15,9 +15,11 @@ Instructor introductions.
 
 **Today's Schedule:**
 
--  9:00 - 10:40 - Orientation
-- 10:50 - 11:35 - Squad Meetings
-- 11:45 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff
+-  9:00 - 10:50 - Orientation
+- Break
+- 11:00 - 11:50 - Squad Meetings
+- Break
+- 12:00 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff (30 m)
 - 12:30 - 2:30  - Lunch
   - 1:30 - 2:30 - Office hours to review Pre-work
 -  2:30 - 5:00  - First Lesson (Command Line)
@@ -307,22 +309,17 @@ it's kind of a slap in the face to the students who are here on-time.
 
 # BREAK (10 minutes, til 10:50)
 
-# Squad Breakouts (45 minutes, til 11:35)
+# Icebreaker - Human Bingo (20 minutes, til 11:10)
 
-- Get to know each other
-- Q and A
-  - Especially about homework and attendance
+# Squad Breakouts (40 minutes, til 11:50)
 - Update GitHub Profile
   - Full name and Avatar
 
-# BREAK (10 minutes, til 11:45)
-
-# Entire Cohort Meets
+# BREAK (10 minutes, til 12:00)
 
 ## GA Instructor / Staff Introductions
 
 ## Producers - Administrative Info (til 12:30)
-#### Refund Policy
 
 ## LUNCH BREAK (12:30 - 2:30)
 
