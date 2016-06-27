@@ -15,14 +15,12 @@ Instructor introductions.
 
 **Today's Schedule:**
 
--  9:00 - 10:50 - Orientation
-- Break
-- 11:00 - 11:50 - Squad Meetings
-- Break
-- 12:00 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff (30 m)
+-  9:00 - 10:40 - Orientation
+- 10:50 - 11:10 - LEGOHUMAN EXTREME TEAM CHALLENGE
+- 11:10 - 11:50 - Squad Meetings
+- 12:00 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff
 - 12:30 - 2:30  - Lunch
-  - 1:30 - 2:30 - Office hours to review Pre-work
--  2:30 - 5:00  - First Lesson (Command Line)
+- 2:30 - 5:00  - First Lesson (Command Line)
 
 # Icebreaker (20 minutes, til 9:30)
 
@@ -233,10 +231,6 @@ respond to code questions via Slack or in person, even if we're in the office.
   - **Answer**: Work/Life Balance.
 - Feel free to send any messages to us and we'll reach out to you the next day.
 
-### Garnet
-
-Demo [Garnet](https://garnet.wdidc.org)
-
 # Perks and Incentives (10 minutes, til 10:40)
 
 Note that everything I'm about to talk about is detailed in the WDI
@@ -309,7 +303,13 @@ it's kind of a slap in the face to the students who are here on-time.
 
 # BREAK (10 minutes, til 10:50)
 
-# Icebreaker - Human Bingo (20 minutes, til 11:10)
+# LEGOHUMAN EXTREME TEAM CHALLENGE (20 minutes, til 11:10)
+
+We're going to do a quick team-building icebreaker exercise that emphasizes specific and clear communication. Communicating clearly and specifically about projects is an important skill for developers, since we typically work in teams. Even if you are a freelance developer, you still have to communicate with the client. Clear communication will convey your professionalism, save you time, and it also minimizes headaches around unclear client expectations.
+
+For this exercise, we'll be working in groups of four or five to recreate a LEGOHUMAN. The LEGOHUMAN is located next to the fridge outside the classroom. One group member at a time can go out for a 10-second interval to take a look at the structure. Cell phones must remain in the classroom. Each person must make one trip before a second or third trip can be made by that person. You’ll be allowed to jot down notes while visiting LEGOHUMAN, so try to capture as many details as you can.
+
+The instructors will declare a winner based on the most convincing replica.
 
 # Squad Breakouts (40 minutes, til 11:50)
 - Update GitHub Profile
