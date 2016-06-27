@@ -17,11 +17,10 @@ Instructor introductions.
 
 -  9:00 - 10:40 - Orientation
 - 10:50 - 11:10 - LEGOHUMAN EXTREME TEAM CHALLENGE
-- 11:10 - 11:35 - Squad Meetings
-- 11:45 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff
+- 11:10 - 11:50 - Squad Meetings
+- 12:00 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff
 - 12:30 - 2:30  - Lunch
-  - 1:30 - 2:30 - Office hours to review Pre-work
--  2:30 - 5:00  - First Lesson (Command Line)
+- 2:30 - 5:00  - First Lesson (Command Line)
 
 # Icebreaker (20 minutes, til 9:30)
 
@@ -232,10 +231,6 @@ respond to code questions via Slack or in person, even if we're in the office.
   - **Answer**: Work/Life Balance.
 - Feel free to send any messages to us and we'll reach out to you the next day.
 
-### Garnet
-
-Demo [Garnet](https://garnet.wdidc.org)
-
 # Perks and Incentives (10 minutes, til 10:40)
 
 Note that everything I'm about to talk about is detailed in the WDI
@@ -316,22 +311,15 @@ For this exercise, we'll be working in groups of four or five to recreate a LEGO
 
 The instructors will declare a winner based on the most convincing replica.
 
-# Squad Breakouts (25 minutes, til 11:35)
-
-- Get to know each other
-- Q and A
-  - Especially about homework and attendance
+# Squad Breakouts (40 minutes, til 11:50)
 - Update GitHub Profile
   - Full name and Avatar
 
-# BREAK (10 minutes, til 11:45)
-
-# Entire Cohort Meets
+# BREAK (10 minutes, til 12:00)
 
 ## GA Instructor / Staff Introductions
 
 ## Producers - Administrative Info (til 12:30)
-#### Refund Policy
 
 ## LUNCH BREAK (12:30 - 2:30)
 
