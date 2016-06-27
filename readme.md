@@ -171,7 +171,7 @@ complete a project (~3-5 days each).
 Units/Projects:
 
 - Intro to the Web (HTML/CSS/JS)
-- Vanilla Javascript
+- Javascript
 - Project 1 - Build an application using HTML / CSS / JS
 - Object Oriented Javascript
 - Ruby
