@@ -312,9 +312,9 @@ it's kind of a slap in the face to the students who are here on-time.
 
 We're going to do a quick team-building icebreaker exercise that emphasizes specific and clear communication. Communicating clearly and specifically about projects is an important skill for developers, since we typically work in teams. Even if you are a freelance developer, you still have to communicate with the client. Clear communication will convey your professionalism, save you time, and it also minimizes headaches around unclear client expectations.
 
-For this exercise, we'll be working in groups of four or five to recreate a LEGOHUMAN. The LEGOHUMAN is located in a remote area (next to the fridge outside the classroom) that can only be accessed by one person at a time, for only 10 seconds, with **no cellphone**. Each person must make one trip before a 2nd or 3rd trip can be made. You will have to rely on descriptive ability to try to recreate the LEGOHUMAN, as closely as possible.
+For this exercise, we'll be working in groups of four or five to recreate a LEGOHUMAN. The LEGOHUMAN is located next to the fridge outside the classroom. One group member at a time can go out for a 10-second interval to take a look at the structure. Cell phones must remain in the classroom. Each person must make one trip before a second or third trip can be made by that person. You’ll be allowed to jot down notes while visiting LEGOHUMAN, so try to capture as many details as you can.
 
-In the last 5 minutes of the exercise, we'll judge to see which group has most closely approximated the original LEGOHUMAN.
+The instructors will declare a winner based on the most convincing replica.
 
 # Squad Breakouts (25 minutes, til 11:35)
 
