@@ -155,6 +155,7 @@ Technologies we cover:
 - Rails
 - Node.js / Express
 - Angular.js
+- React.js
 
 We cover these technologies / topics because they are foundational to web
 development, and learning the underlying concepts of how they work prepares you
@@ -181,7 +182,7 @@ Units/Projects:
 - Advanced Front-end (using API's on clientside)
 - Project 3 - Build a backend API and Front-end that consumes it
 - Express and the MEAN stack
-- TBD - Agile based on class wishes / needs
+- React and Other Libraries
 - Project 4 - Portfolio project
 
 # Course Logistics (10 minutes, til 10:30) (Jesse)
