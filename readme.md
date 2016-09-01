@@ -9,7 +9,7 @@
 - Map out the topics and technologies of web development, and identify which we will and will not cover
 - List the main "Dos" and "Don'ts" for the class and the space
 
-# Welcome & Today's Schedule (10 minutes, til 9:10)
+# Welcome & Today's Schedule (10 minutes, til 9:10) (Adrian)
 
 Instructor introductions.
 
@@ -22,7 +22,7 @@ Instructor introductions.
 - 12:30 - 2:30  - Lunch
 - 2:30 - 5:00  - First Lesson (Command Line)
 
-# Icebreaker (20 minutes, til 9:30)
+# Icebreaker (20 minutes, til 9:30) (Adrian)
 
  Find a partner. Spend 5 minutes sketching your partner. On the left, draw three things
  he or she likes, and on the right, three things he or she dislikes.
@@ -35,7 +35,7 @@ Instructor introductions.
 
  ![](https://dl.dropboxusercontent.com/s/frqxj4hn044sm73/action_adrian_.jpg?dl=0)
 
-# What is an immersive course? (10 minutes, til 9:40)
+# What is an immersive course? (10 minutes, til 9:40) (Adrian)
 
 Spend two minutes discussing and writing down some answers to the following question: **What does it mean to be in an "immersive" environment?**
 
@@ -79,7 +79,7 @@ Spend two minutes discussing and writing down some answers to the following ques
 
 > None of the above mentions anything about code.
 
-# Growth Mindset (10 minutes, til 9:50)
+# Growth Mindset (10 minutes, til 9:50) (Nick)
 
 [Growth Mindset](https://www.youtube.com/watch?v=-_oqghnxBmY_) - [Dr. Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
 
@@ -99,7 +99,7 @@ Spend two minutes discussing and writing down some answers to the following ques
     - Google is your best friend
 - So many students throughout my time here say, "I don't know how to do that." or some variation of that. Many of you will say it. Just add "...yet" to it.
 
-# What is asking for help? (10 minutes, til 10:00)
+# What is asking for help? (10 minutes, til 10:00) (Nick)
 
 - This is the thing students find the hardest, and the thing that ultimately determines whether or not students will be successful in this class.
 - Without fail, the students who do not ask for help do the poorest in the class.
@@ -122,7 +122,7 @@ We have all asked for help. There's no shame in it. Feeling afraid to ask for he
 
 # Break (10 minutes, til 10:10)
 
-# Course content (10 minutes, til 10:20)
+# Course content (10 minutes, til 10:20) (Jesse)
 
 ### How the Class is Built
 
@@ -184,7 +184,7 @@ Units/Projects:
 - TBD - Agile based on class wishes / needs
 - Project 4 - Portfolio project
 
-# Course Logistics (10 minutes, til 10:30)
+# Course Logistics (10 minutes, til 10:30) (Jesse)
 
 ### Weekly Schedule
 
@@ -231,75 +231,11 @@ respond to code questions via Slack or in person, even if we're in the office.
   - **Answer**: Work/Life Balance.
 - Feel free to send any messages to us and we'll reach out to you the next day.
 
-# Perks and Incentives (10 minutes, til 10:40)
+# [Graduation Requirements](https://github.com/ga-dc/wdi12/blob/master/graduation-requirements.md) (10 minutes, til 10:40) (Jesse)
 
-Note that everything I'm about to talk about is detailed in the WDI
-repository on Github. I'm just highlighting some things here.
+### [Homework](https://github.com/ga-dc/wdi12/blob/master/homework-policy.md)
 
-Please ask your squad instructor if you have any questions. It's really
-important that you understand all of this!
-
-### Incentives
-
-If you complete 80% of the homework assigned over the duration of the class,
-and have minimal absences and tardies, then you get the benefit of being
-"recommended for hire". This means:
-
-- You may attend the Meet and Hire
-- You may publish a Profile on profiles.generalassemb.ly
-- The instructors and staff will be happy to write job recommendations for you
-- The Outcomes team will prioritize helping you in your job search
-
-Regardless of homework and attendance, every student can always attend class and
-alumni events, and we'll always treat each student like every other.
-
-There's no "bell curve" or number of students we have to give a "C" to. We're
-just asking you to be on-time and make an effort. We expect each of you to meet
-these criteria.
-
-### Homework
-
-There will be roughly 2 hours of homework every night. You'll be submitting the
-homework through Github, which we'll cover later on this week.
-
-Assignments will generally be due on the following day at 9am, though we
-strongly suggest you submit a pull request by midnight and get some sleep for
-the next day of class.
-
-Your squad instructor will provide meaningful feedback on at least one of these
-assignments and also on your lab. You can also point us to specific lines in your code you'd like feedback on.
-
-It's **really, really** important that you submit homework even if -- especially
-if -- you didn't complete it. We would much rather you spend 2 hours taking a
-stab at something and turn it in unfinished than you spend 10 hours and turn it
-in perfect (or turn in nothing at all).
-
-This is because without seeing your homework, we have no idea how you're
-progressing with the material, and so we can't get you the help you may need.
-Also if you don't turn in anything then it suggests to us that you're not making
-WDI a priority, and as such we need to check in with you.
-
-Assignments are graded on whether or not you seem to have made a meaningful
-effort to do them. There are three possible grades for each assignment:
-  - Complete: meaningful effort was made. How "good" your code is doesn't have any impact on this.
-  - Incomplete: something was turned in, but meaningful effort was not made. No changes were made to the assignment, and/or it was blatantly plagiarized.
-  - Missing: nothing was turned in.
-
-### Attendance
-
-You'll be taking your own attendance every morning via Garnet.
-(It can tell if you're not actually in the classroom! :) If you check in one
-minute after the day starts, it's considered "tardy", and one hour after the
-day starts is considered "absent".
-
-Metro delays can happen. The solution is to leave every day earlier than you
-think you should. The instructors are on-time every day and we live all over
-the area. If we can do it, so can you!
-
-If you do arrive late, we'll ask that you not enter the classrooms until they
-go on break. Having folks coming in late is a huge distraction to the
-instructors and students, and if you come in late but can still sneak in then
-it's kind of a slap in the face to the students who are here on-time.
+### [Attendance](https://github.com/ga-dc/wdi12/blob/master/attendance.md)
 
 # BREAK (10 minutes, til 10:50)
 
@@ -314,6 +250,7 @@ The instructors will declare a winner based on the most convincing replica.
 # Squad Breakouts (40 minutes, til 11:50)
 - Update GitHub Profile
   - Full name and Avatar
+- Sign Requirements Agreement and Set Goals
 
 # BREAK (10 minutes, til 12:00)
 
@@ -321,8 +258,12 @@ The instructors will declare a winner based on the most convincing replica.
 
 ## Producers - Administrative Info (til 12:30)
 
-## LUNCH BREAK (12:30 - 2:30)
+## LUNCH BREAK (12:30 - 1:30)
 
-## Lesson 1 (2:30 - 5:00)
+## Lesson 1 (1:30 - 3:20)
 
 Meet in your classroom for your first WDI Lesson!
+
+## Outcomes (3:30 - 5:00)
+
+
