@@ -260,10 +260,8 @@ The instructors will declare a winner based on the most convincing replica.
 
 ## Producers - Administrative Info (til 12:30)
 
-## LUNCH BREAK (12:30 - 1:30)
+## LUNCH BREAK (12:30 - 2:30)
 
-## Lesson 1 (1:30 - 3:20)
+## Lesson 1 (2:30 - 5:00)
 
 Meet in your classroom for your first WDI Lesson!
-
-## Outcomes (3:30 - 5:00)
