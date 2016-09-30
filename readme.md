@@ -233,7 +233,7 @@ respond to code questions via Slack or in person, even if we're in the office.
   - **Answer**: Work/Life Balance.
 - Feel free to send any messages to us and we'll reach out to you the next day.
 
-# [Graduation Requirements](https://github.com/ga-dc/wdi12/blob/master/graduation-requirements.md) (10 minutes, til 10:40) (Jesse)
+# [Graduation Requirements](https://github.com/ga-dc/wdi12/blob/master/graduation-requirements.md) (10 minutes, til 10:40) (Andy)
 
 ### [Homework](https://github.com/ga-dc/wdi12/blob/master/homework-policy.md)
 
