@@ -9,7 +9,7 @@
 - Map out the topics and technologies of web development, and identify which we will and will not cover
 - List the main "Dos" and "Don'ts" for the class and the space
 
-# Welcome & Today's Schedule (10 minutes, til 9:10) (Adrian)
+# Welcome & Today's Schedule (10 minutes, til 9:10) (Andy)
 
 Instructor introductions.
 
@@ -23,7 +23,7 @@ Instructor introductions.
 - 1:30 - 3:20  - First Lesson (Command Line)
 - 3:30 - 5:00 - Outcomes
 
-# Icebreaker (20 minutes, til 9:30) (Adrian)
+# Icebreaker (20 minutes, til 9:30) (James)
 
  Find a partner. Spend 5 minutes sketching your partner. On the left, draw three things
  he or she likes, and on the right, three things he or she dislikes.
@@ -36,7 +36,7 @@ Instructor introductions.
 
  ![](https://dl.dropboxusercontent.com/s/frqxj4hn044sm73/action_adrian_.jpg?dl=0)
 
-# What is an immersive course? (10 minutes, til 9:40) (Adrian)
+# What is an immersive course? (10 minutes, til 9:40) (Nayana)
 
 Spend two minutes discussing and writing down some answers to the following question: **What does it mean to be in an "immersive" environment?**
 
@@ -80,7 +80,7 @@ Spend two minutes discussing and writing down some answers to the following ques
 
 > None of the above mentions anything about code.
 
-# Growth Mindset (10 minutes, til 9:50) (Nick)
+# Growth Mindset (10 minutes, til 9:50) (Nayana)
 
 [Growth Mindset](https://www.youtube.com/watch?v=-_oqghnxBmY_) - [Dr. Carol Dweck](https://en.wikipedia.org/wiki/Carol_Dweck)
 
@@ -100,7 +100,7 @@ Spend two minutes discussing and writing down some answers to the following ques
     - Google is your best friend
 - So many students throughout my time here say, "I don't know how to do that." or some variation of that. Many of you will say it. Just add "...yet" to it.
 
-# What is asking for help? (10 minutes, til 10:00) (Nick)
+# What is asking for help? (10 minutes, til 10:00) (James)
 
 - This is the thing students find the hardest, and the thing that ultimately determines whether or not students will be successful in this class.
 - Without fail, the students who do not ask for help do the poorest in the class.
@@ -123,7 +123,7 @@ We have all asked for help. There's no shame in it. Feeling afraid to ask for he
 
 # Break (10 minutes, til 10:10)
 
-# Course content (10 minutes, til 10:20) (Jesse)
+# Course content (10 minutes, til 10:20) (Andy)
 
 ### How the Class is Built
 
@@ -186,7 +186,7 @@ Units/Projects:
 - React and Other Libraries
 - Project 4 - Portfolio project
 
-# Course Logistics (10 minutes, til 10:30) (Jesse)
+# Course Logistics (10 minutes, til 10:30) (Andy)
 
 ### Weekly Schedule
 
@@ -241,7 +241,7 @@ respond to code questions via Slack or in person, even if we're in the office.
 
 # BREAK (10 minutes, til 10:50)
 
-# LEGOHUMAN EXTREME TEAM CHALLENGE (20 minutes, til 11:10)
+# LEGOHUMAN EXTREME TEAM CHALLENGE (20 minutes, til 11:10) (Nayana)
 
 We're going to do a quick team-building icebreaker exercise that emphasizes specific and clear communication. Communicating clearly and specifically about projects is an important skill for developers, since we typically work in teams. Even if you are a freelance developer, you still have to communicate with the client. Clear communication will convey your professionalism, save you time, and it also minimizes headaches around unclear client expectations.
 
@@ -267,5 +267,3 @@ The instructors will declare a winner based on the most convincing replica.
 Meet in your classroom for your first WDI Lesson!
 
 ## Outcomes (3:30 - 5:00)
-
-
