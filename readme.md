@@ -19,9 +19,9 @@ Instructor introductions.
 - 10:50 - 11:10 - LEGOHUMAN EXTREME TEAM CHALLENGE
 - 11:10 - 11:50 - Squad Meetings
 - 12:00 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff
-- 12:30 - 1:30  - Lunch
-- 1:30 - 3:20  - First Lesson (Command Line)
-- 3:30 - 5:00 - Outcomes
+- 12:30 - 2:30  - Lunch
+- 2:30 - 5:00  - First Lesson (Command Line)
+
 
 # Icebreaker (20 minutes, til 9:30) (James)
 
