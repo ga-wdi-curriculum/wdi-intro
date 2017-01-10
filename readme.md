@@ -87,7 +87,7 @@ This may be the most mentally challenging thing you've ever done -- the first ti
 - Unfortunately, this can hurt. Just like exercise can make you sore and tired, so should learning. Try to enjoy the burn knowing it is making you better.
 - We anticipate that you will run into hardships. When you do, that's when it is time to really challenge yourself and buckle down. Don't quit! Embrace the fact that the challenge will make you a better coder. Endure the struggle to grow and develop your mind.
 
-> - [The Learning Myth: Why I'll Never Tell My Son He's Smart](https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-ill-never-tell-my-son-hes) - A great read/watch when you have a few spare minutes.
+> [The Learning Myth: Why I'll Never Tell My Son He's Smart](https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-ill-never-tell-my-son-hes) - A great read/watch when you have a few spare minutes.
 
 ### The Emotional Cycle of Change
 
@@ -111,7 +111,7 @@ Asking for help is what students find hardest in WDI. It is also what ultimately
 
 #### Turn & Talk
 
-Take 30 seconds to think of a time when you have asked someone for help. It doesn't have to be tech-related. Then take 30 seconds to turn and share with your tablemates about those times. What were the outcomes?
+Take 30 seconds to think of a time when you have asked someone for help. It doesn't have to be tech-related. Then take another 30 seconds to turn and share with your tablemates about those times. What were the outcomes?
 
 -----
 
@@ -193,18 +193,18 @@ complete a project, each of which last 3-5 days.
 - React, Redux
 - **Project 4** - Portfolio project
 
-# Course Logistics (10 minutes / 10:30) (Andy)
+# Course Logistics (10 minutes / 10:30)
 
 ### Weekly Schedule
 
 #### Normal Weeks
 
 Mondays, Tuesdays, Wednesdays and Fridays
-- 9:00-10:00:  Code Challenge / Review / Mini-Lesson
-- 10:00-12:30: Lesson 1 / Lab
-- 12:30-2:30:  Lunch / Work Time / One-on-one's / Office Hours
-- 2:30-5:00:   Lesson 2 / Lab / Outcomes (Wednesday)
-- 6:00-8:00:   Evening Office Hours (Monday, Tuesday, Wednesday)
+- **9:00-10:00**:  Code Challenge / Review / Mini-Lesson
+- **10:00-12:30**: Lesson 1 / Lab
+- **12:30-2:30**:  Lunch / Work Time / One-on-one's / Office Hours
+- **2:30-5:00**:   Lesson 2 / Lab / Outcomes (Wednesday)
+- **6:00-8:00**:   Evening Office Hours (Monday, Tuesday, Wednesday)
 
 #### Project Weeks (3, 7, 9, 12)
 
@@ -235,7 +235,7 @@ Outside of these times, instructors **are not available** to provide in-person t
 
 If you have any non-technical questions concerning WDI, however, you are welcome to approach or Slack instructors at any time. If you reach out via Slack in the evening, the instructor will respond by the next day.
 
-# [Graduation Requirements](https://github.com/ga-dc/wdi13/blob/master/graduation-requirements.md) (10 minutes / 10:40) (Andy)
+# [Graduation Requirements](https://github.com/ga-dc/wdi13/blob/master/graduation-requirements.md) (10 minutes / 10:40)
 
 ### [Homework](https://github.com/ga-dc/wdi13/blob/master/homework-policy.md)
 
