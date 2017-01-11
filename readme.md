@@ -32,7 +32,7 @@ Switch!
 
 For the remaining 10 minutes, we'll go around the room and share!
 
-Here's a wireframe of Adrian, a WDI Instructor, as an example...
+Here's a wireframe of Adrian as an example...
 
 ![](https://dl.dropboxusercontent.com/s/frqxj4hn044sm73/action_adrian_.jpg?dl=0)
 
@@ -62,7 +62,7 @@ Spend two minutes discussing and writing down some answers to the following ques
 
 #### We will not give up on you.
 - Even when you might have given up on yourself!
-- None of the instructors are here just to collect a paycheck. We're nerds, about web development, education, and you.
+- None of the instructors are here just to collect a paycheck. We're nerds about web development, education and you.
 
 #### Trust that our decisions are informed by solid experience.
 - We rely on your feedback. At the same time, we ultimately have to trust in our own experience and expertise first.
@@ -131,9 +131,9 @@ How can we ask for help efficiently?
 
 #### Gradual Release of Responsibility
 
-<!-- AM: Could definitely use some revision here plz! -->
+Being able to ask for help effectively will become increasingly crucial as the course progresses. During the first project, for example, we will be holding office hours throughout the dedicated project days. By the fourth project, however, all support will be conducted using Github issues. Between those two projects, instructors will be placing an increasing onus on the students to solve problems on their own with limited instructor support -- what we call a "gradual release of responsibility."
 
-Being able to ask for help effectively will become increasingly crucial as the course progresses. During the first project, for example, we will be holding office hours throughout the dedicated project days. By the fourth project, however, all support will be conducted using Github issues. Between those two projects instructors will be placing an increasing onus on the students to solve problems on their own with limited instructor support -- what we call a "gradual release of responsibility."
+While instructors love helping out, we've found that students become stronger developers by learning to solve their own problems. Your instructors won't be following you to your jobs so it's important to develop a sense of self-sufficiency while you're here.
 
 # Break (10 minutes / 10:10)
 
@@ -144,7 +144,7 @@ campus, we have built on and modified this curriculum based on our own experienc
 as instructors and the unique features of the DC job market. Each lesson is
 designed by the instructor that's delivering it.
 
-We also iterate on this curriculum constantly, so technologies and concepts
+We also iterate on this curriculum constantly so technologies and concepts
 change with each cohort.
 
 ### Course Content
@@ -221,15 +221,13 @@ instructor providing you with feedback on homework, labs, quizzes, etc.
 
 ### Instructor Communication
 
-<!-- AM: Could definitely use some revision here plz! -->
-
 There will be dedicated time for instructors to provide students with in-person support outside of lessons. These are limited to...
 * **Afternoon office hours**: Monday, Tuesday, Wednesday - 1:30PM - 2:30PM
 * **One-on-one's**: Monday, Tuesday, Wednesday - 1:30PM - 2:30PM
 * **Evening office hours**: Monday, Tuesday, Wednesday - 6:00PM - 8:00PM
 * **Lab support**
 
-Outside of these times, instructors **are not available** to provide in-person technical support, even if they are in the office.
+Outside of these times, instructors **are not available** to provide in-person technical support, even if they are in the office. We use this time to prepare lessons, grade projects, etc.
 * This encourages students to become self-sufficient.
 * Instructors use the rest of the time to prepare WDI.
 
@@ -243,11 +241,11 @@ If you have any non-technical questions concerning WDI, however, you are welcome
 
 # Break (10 minutes / 10:50)
 
-# LEGOHUMAN EXTREME TEAM CHALLENGE (20 minutes / 11:10)
+# Legohuman Extreme Team Challenge (20 minutes / 11:10)
 
 We're going to do a quick team-building icebreaker exercise that emphasizes specific and clear communication. Communicating clearly and specifically about projects is an important skill for developers, since we typically work in teams. Even if you are a freelance developer, you still have to communicate with the client. Clear communication will convey your professionalism, save you time, and it also minimizes headaches around unclear client expectations.
 
-For this exercise, we'll be working in groups of four or five to recreate a LEGOHUMAN. The LEGOHUMAN is located next to the fridge outside the classroom. One group member at a time can go out for a 10-second interval to take a look at the structure. Cell phones must remain in the classroom. Each person must make one trip before a second or third trip can be made by another person.
+For this exercise, we'll be working in groups of four or five to recreate a Legohuman. The Legohuman is located next to the fridge outside the classroom. One group member at a time can go out for a 10-second interval to take a look at the structure. Cell phones must remain in the classroom. Each person must make one trip before a second or third trip can be made by another person.
 
 The instructors will declare a winner based on the most convincing replica.
 
