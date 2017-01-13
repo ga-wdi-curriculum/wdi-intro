@@ -16,7 +16,7 @@ Instructor introductions.
 **Today's Schedule:**
 
 -  9:00 - 10:40 - Orientation
-- 10:50 - 11:10 - LEGOHUMAN EXTREME TEAM CHALLENGE
+- 10:50 - 11:10 - Legohuman Extreme Challenge
 - 11:10 - 11:50 - Squad Meetings
 - 12:00 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff
 - 12:30 - 2:30  - Lunch
@@ -119,7 +119,7 @@ We have all asked for help. There's no shame in it. Feeling afraid to ask for he
 
 How can we ask for help efficiently?
 - Ask a clear problem. "I don't know any of this" isn't a clear problem. "I tried this thing and got this error" is a clear problem.
-- Instructors will be unable to help you if...
+- Your instructors and peers won't be able to help you if...
   - The question you're asking isn't constructive
   - It's clear you haven't made an effort to find the answer. This means taking the following steps...
     1. First, try it yourself
