@@ -20,7 +20,7 @@ Instructor introductions.
 - 11:10 - 11:50 - Squad Meetings
 - 12:00 - 12:30 - Entire cohort meets Production, Outcomes & Campus staff
 - 12:30 - 2:30  - Lunch
-- 2:30 - 5:00  - First Lesson (Command Line)
+- 2:30 - 5:00  - First Lesson
 
 
 # Icebreaker (20 minutes / 9:30)
