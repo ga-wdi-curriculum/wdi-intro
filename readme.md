@@ -257,6 +257,4 @@ The instructors will declare a winner based on the most convincing replica.
 
 # Break (10 minutes / 12:00)
 
-## GA Instructor / Staff Introductions (30 minutes / 12:30)
-
-### Producers - Administrative Info
+# Production / GA Staff Introductions (30 minutes / 12:30)
