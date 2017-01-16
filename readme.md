@@ -233,7 +233,7 @@ Outside of these times, instructors **are not available** to provide in-person t
 
 If you have any non-technical questions concerning WDI, however, you are welcome to approach or Slack instructors at any time. If you reach out via Slack in the evening, the instructor will respond by the next day.
 
-# [Graduation Requirements](https://github.com/ga-dc/wdi13/blob/master/graduation-requirements.md) (10 minutes / 10:40)
+# [Graduation Requirements](https://github.com/ga-dc/wdi14/blob/master/graduation-requirements.md) (10 minutes / 10:40)
 
 ### [Homework](https://github.com/ga-dc/wdi13/blob/master/homework-policy.md)
 
