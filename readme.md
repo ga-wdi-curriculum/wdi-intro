@@ -235,9 +235,9 @@ If you have any non-technical questions concerning WDI, however, you are welcome
 
 # [Graduation Requirements](https://github.com/ga-dc/wdi14/blob/master/graduation-requirements.md) (10 minutes / 10:40)
 
-### [Homework](https://github.com/ga-dc/wdi13/blob/master/homework-policy.md)
+### [Homework](https://github.com/ga-dc/wdi14/blob/master/homework-policy.md)
 
-### [Attendance](https://github.com/ga-dc/wdi13/blob/master/attendance.md)
+### [Attendance](https://github.com/ga-dc/wdi14/blob/master/attendance.md)
 
 # Break (10 minutes / 10:50)
 
