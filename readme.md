@@ -199,7 +199,7 @@ complete a project, each of which last 3-5 days.
 
 #### Normal Weeks
 
-Mondays, Tuesdays, Wednesdays and Fridays
+Mondays, Tuesdays, Wednesdays, Thursdays and Fridays
 - **9:00-10:00**:  Code Challenge / Review / Mini-Lesson
 - **10:00-12:30**: Lesson 1 / Lab
 - **12:30-2:30**:  Lunch / Work Time / One-on-one's / Office Hours
