@@ -219,6 +219,8 @@ Each student will be part of a squad lead by one
 instructor. Your squad instructor will be the primary -- but not the only --
 instructor providing you with feedback on homework, labs, quizzes, etc.
 
+> A list of squads and classroom rotations can be found [here](https://github.com/ga-dc/wdi14/blob/master/squads.md).
+
 ### Instructor Communication
 
 There will be dedicated time for instructors to provide students with in-person support outside of lessons. These are limited to...
