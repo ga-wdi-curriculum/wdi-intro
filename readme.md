@@ -245,9 +245,9 @@ If you have any non-technical questions concerning WDI, however, you are welcome
 
 # Legohuman Extreme Team Challenge (20 minutes / 11:10)
 
-We're going to do a quick team-building icebreaker exercise that emphasizes specific and clear communication. Communicating clearly and specifically about projects is an important skill for developers, since we typically work in teams. Even if you are a freelance developer, you still have to communicate with the client. Clear communication will convey your professionalism, save you time, and it also minimizes headaches around unclear client expectations.
+We're going to do a quick team-building icebreaker exercise that emphasizes specific and clear communication. Communicating clearly and specifically about projects and code is an important skill for developers, since we typically work in teams. Even if you are a freelance developer, you still have to communicate with the client. Clear communication will convey your professionalism, save you time, and it also minimizes headaches around unclear client expectations.
 
-For this exercise, we'll be working in groups of four or five to recreate a Legohuman. The Legohuman is located next to the fridge outside the classroom. One group member at a time can go out for a 10-second interval to take a look at the structure. Cell phones must remain in the classroom. Each person must make one trip before a second or third trip can be made by another person.
+For this exercise, we'll be working in groups of four or five to recreate a Legohuman. The Legohuman is located on the table outside of the classroom. One group member at a time can go out for a 10-second interval to take a look at the structure. You cannot take a picture of the structure. Each person must make one trip before a second or third trip can be made by another person.
 
 The instructors will declare a winner based on the most convincing replica.
 
