@@ -87,7 +87,7 @@ This may be the most mentally challenging thing you've ever done -- the first ti
 - Unfortunately, this can hurt. Just like exercise can make you sore and tired, so should learning. Try to enjoy the burn knowing it is making you better.
 - We anticipate that you will run into hardships. When you do, that's when it is time to really challenge yourself and buckle down. Don't quit! Embrace the fact that the challenge will make you a better coder. Endure the struggle to grow and develop your mind.
 
-> [The Learning Myth: Why I'll Never Tell My Son He's Smart](https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-ill-never-tell-my-son-hes) - A great read/watch when you have a few spare minutes.
+> [The Learning Myth: Why I'll Never Tell My Son He's Smart](https://www.khanacademy.org/talks-and-interviews/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart) - A great read/watch when you have a few spare minutes.
 
 ### The Emotional Cycle of Change
 
