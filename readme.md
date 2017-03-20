@@ -139,19 +139,13 @@ While instructors love helping out, we've found that students become stronger de
 
 # Course Content (10 minutes / 10:20)
 
-GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local
-campus, we have built on and modified this curriculum based on our own experiences
-as instructors and the unique features of the DC job market. Each lesson is
-designed by the instructor that's delivering it.
+GA's global team has built a baseline curriculum, which includes topics to cover and a suggested order. As a local campus, we have built on and modified this curriculum based on our own experiences as instructors and the unique features of the DC job market. Each lesson is designed by the instructor that's delivering it.
 
-We also iterate on this curriculum constantly so technologies and concepts
-change with each cohort.
+We also iterate on this curriculum constantly so technologies and concepts change with each cohort.
 
 ### Course Content
 
-#### Exercise
-
-As a class, list technologies and languages that you think are involved in web development (e.g., HTML, Ruby, Databases).
+> What are some technologies and languages you know of that are involved in web development (e.g., HTML, Ruby, Databases).
 
 ----
 
@@ -161,16 +155,15 @@ A non-exhaustive list of technologies we cover...
 - CSS / SASS
 - JavaScript
 - Ruby
+- Rails
 - PostgreSQL (Relational Database)
 - MongoDB (NoSQL Database)
-- Rails
-- Node.js / Express
+- Node.js 
+- Express.js
 - Angular.js
 - React.js
 
-We cover these technologies / topics because they are foundational to web
-development, and learning the underlying concepts of how they work prepares you
-to learn and work in any web development technologies.
+We cover these technologies / topics because they are foundational to web development, and learning the underlying concepts of how they work prepares you to learn and work in any web development technologies.
 
 ### Course Sequence
 
@@ -179,18 +172,17 @@ complete a project, each of which last 3-5 days.
 
 #### Units/Projects
 
-- Intro to the Web (HTML/CSS/JS)
-- Intermediate Javascript
-- **Project 1** - Build an application using HTML/CSS/ JS
-- Object Oriented Javascript
+- Intro to the Web and Development (HTML/CSS and Git)
+- JavaScript
+- **Project 1** - Build an front-end application with HTML/CSS/JS
 - Ruby, Sinatra
-- Full-stack MVC with Rails
+- Full-stack MVC with Ruby on Rails
 - **Project 2** - Build a full-stack, data-driven app with Rails
-- Angular and APIs
-- Advanced Front-End (using API's on clientside)
-- **Project 3** - Build a back-end API and front-end that consumes it
-- Express and the MEAN stack
-- React, Redux
+- Angular.js
+- APIs
+- **Project 3** - Build a Single Page Application with Angular supported by a Rails JSON API
+- Node, Express, and MongoDB (MEAN stack)
+- React & Redux
 - **Project 4** - Portfolio project
 
 # Course Logistics (10 minutes / 10:30)
@@ -199,27 +191,24 @@ complete a project, each of which last 3-5 days.
 
 #### Normal Weeks
 
-Mondays, Tuesdays, Wednesdays, Thursdays and Fridays
-- **9:00-10:00**:  Code Challenge / Review / Mini-Lesson
-- **10:00-12:30**: Lesson 1 / Lab
+Weekdays
+- **9:00-10:00**:  Checkpoint / Code Challenge / Review
+- **10:00-12:30**: Lesson 1 / Lab / Outcomes (Tuesday)
 - **12:30-2:30**:  Lunch / Work Time / One-on-one's / Office Hours
-- **2:30-5:00**:   Lesson 2 / Lab / Outcomes (Wednesday)
+- **2:30-5:00**:   Lesson 2 / Lab / Outcomes
 - **6:00-8:00**:   Evening Office Hours (Monday, Tuesday, Wednesday)
 
-#### Project Weeks (3, 7, 9, 12)
+#### Project Weeks (3, 6, 8, 12)
 
 Project weeks will be pretty much just time for you to work on your project.
-- There will be no scheduled lessons, except for a few optional mini-lessons.
+- There will be no scheduled lessons (outcomes will meet as usual)
 - There will be no evening office hours, since instructors will be widely available during the day.
-- The Outcomes schedule will remain the same during project weeks
 
-### Squads and Rotations
+### Squads
 
-Each student will be part of a squad lead by one
-instructor. Your squad instructor will be the primary -- but not the only --
-instructor providing you with feedback on homework, labs, quizzes, etc.
+Each student will be part of a squad lead by one instructor. Your squad instructor will be the primary -- but not the only -- instructor providing you with feedback on homework, labs, quizzes, etc.
 
-> A list of squads and classroom rotations can be found [here](https://github.com/ga-dc/wdi15/blob/master/squads.md).
+> A list of squads can be found [here](https://github.com/ga-dc/wdi15/blob/master/squads.md).
 
 ### Instructor Communication
 
