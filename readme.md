@@ -208,7 +208,7 @@ Project weeks will be pretty much just time for you to work on your project.
 
 Each student will be part of a squad lead by one instructor. Your squad instructor will be the primary -- but not the only -- instructor providing you with feedback on homework, labs, quizzes, etc.
 
-> A list of squads can be found [here](https://github.com/ga-dc/wdi15/blob/master/squads.md).
+> A list of squads can be found [here](https://github.com/ga-dc/wdi16/blob/master/squads.md).
 
 ### Instructor Communication
 
@@ -224,11 +224,11 @@ Outside of these times, instructors **are not available** to provide in-person t
 
 If you have any non-technical questions concerning WDI, however, you are welcome to approach or Slack instructors at any time. If you reach out via Slack in the evening, the instructor will respond by the next day.
 
-# [Graduation Requirements](https://github.com/ga-dc/wdi15/blob/master/graduation-requirements.md) (10 minutes / 10:40)
+# [Graduation Requirements](https://github.com/ga-dc/wdi16/blob/master/graduation-requirements.md) (10 minutes / 10:40)
 
-### [Homework](https://github.com/ga-dc/wdi15/blob/master/homework-policy.md)
+### [Homework](https://github.com/ga-dc/wdi16/blob/master/homework-policy.md)
 
-### [Attendance](https://github.com/ga-dc/wdi15/blob/master/attendance.md)
+### [Attendance](https://github.com/ga-dc/wdi16/blob/master/attendance.md)
 
 # Break (10 minutes / 10:50)
 
