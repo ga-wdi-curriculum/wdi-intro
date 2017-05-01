@@ -152,7 +152,7 @@ We also iterate on this curriculum constantly so technologies and concepts chang
 A non-exhaustive list of technologies we cover...
 
 - HTML
-- CSS / SASS
+- CSS 
 - JavaScript
 - Ruby
 - Rails
